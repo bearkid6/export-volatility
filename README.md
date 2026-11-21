@@ -1,9 +1,9 @@
-**状态：** 刊于《求史》（Qiushi Papers，[luluh.top/reports](https://luluh.top/reports/)）的工作论文（2026 年 11 月稿），未经同行评审，在线附录还没有整理。
+**状态：** 刊于《求史》（Qiushi Papers，[qiushi.luluh.top](https://qiushi.luluh.top/)）的工作论文（2026 年 11 月稿），未经同行评审，在线附录还没有整理。
 
 # 伙伴货币汇率波动对中国出口的影响有多大？
 
 [[论文 PDF]](paper/export-volatility-working-paper.pdf)
-[[在线阅读]](https://luluh.top/blog/export-volatility-working-paper/)
+[[在线阅读]](https://qiushi.luluh.top/export-volatility-working-paper/)
 [[正文表格]](results/tables.md)
 [[引用]](#引用)
 
@@ -69,11 +69,11 @@ China's exports increasingly go to emerging economies with volatile currencies. 
   year         = {2026},
   month        = {11},
   note         = {工作论文，未经同行评审},
-  url          = {https://luluh.top/blog/export-volatility-working-paper/}
+  url          = {https://qiushi.luluh.top/export-volatility-working-paper/}
 }
 ```
 
-GB/T 7714：撸撸黄. 伙伴货币汇率波动对中国出口的影响有多大？——基于 2000—2025 年分伙伴月度数据的再检验[J/OL]. 求史, 2026[引用日期]. https://luluh.top/blog/export-volatility-working-paper/.
+GB/T 7714：撸撸黄. 伙伴货币汇率波动对中国出口的影响有多大？——基于 2000—2025 年分伙伴月度数据的再检验[J/OL]. 求史, 2026[引用日期]. https://qiushi.luluh.top/export-volatility-working-paper/.
 
 ## 许可
 

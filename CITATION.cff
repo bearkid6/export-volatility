@@ -5,7 +5,7 @@ authors:
   - name: "撸撸黄"
 date-released: 2026-11-11
 version: "2026.11"
-url: "https://luluh.top/blog/export-volatility-working-paper/"
+url: "https://qiushi.luluh.top/export-volatility-working-paper/"
 repository-code: "https://github.com/bearkid6/export-volatility"
 license: CC-BY-4.0
 keywords:
@@ -25,5 +25,5 @@ preferred-citation:
     - name: "撸撸黄"
   year: 2026
   month: 11
-  url: "https://luluh.top/blog/export-volatility-working-paper/"
+  url: "https://qiushi.luluh.top/export-volatility-working-paper/"
   notes: "工作论文，未经同行评审"
