@@ -9,6 +9,8 @@
 
 [[论文 PDF]](paper/export-volatility-working-paper.pdf)
 [[在线阅读]](https://qiushi.luluh.top/export-volatility-working-paper/)
+[[English edition]](https://qiushi.luluh.top/en/export-volatility-working-paper/)
+[[English PDF]](paper/export-volatility-working-paper-en.pdf)
 [[正文表格]](results/tables.md)
 [[引用]](#引用)
 
