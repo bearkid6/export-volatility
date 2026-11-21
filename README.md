@@ -1,3 +1,8 @@
+<a href="https://qiushi.luluh.top/"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/qiushi-dark.svg">
+  <img src="assets/qiushi-light.svg" alt="求史" height="56">
+</picture></a>
+
 **状态：** 刊于《求史》（Qiushi Papers，[qiushi.luluh.top](https://qiushi.luluh.top/)）的工作论文（2026 年 11 月稿），未经同行评审，在线附录还没有整理。
 
 # 伙伴货币汇率波动对中国出口的影响有多大？
